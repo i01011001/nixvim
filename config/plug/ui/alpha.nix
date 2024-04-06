@@ -20,7 +20,7 @@
     layout = [
       {
         type = "terminal";
-        command = "pfetch";
+        command = "echo 'Hello'";
         width = 46;
         height = 25;
         opts = {
